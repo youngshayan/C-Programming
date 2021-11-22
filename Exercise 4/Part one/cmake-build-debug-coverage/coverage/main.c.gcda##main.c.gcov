@@ -1,0 +1,45 @@
+        -:    0:Source:C:/Users/user/CLionProjects/Exercise4-part one/main.c
+        -:    0:Graph:C:\Users\user\CLionProjects\Exercise4-part one\cmake-build-debug-coverage\CMakeFiles\Exercise4_part_one.dir\main.c.gcno
+        -:    0:Data:C:\Users\user\CLionProjects\Exercise4-part one\cmake-build-debug-coverage\CMakeFiles\Exercise4_part_one.dir\main.c.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:/*
+        -:    2: * Programmer: Shayan Mansornia     Date:11/22/2021
+        -:    3: * Instructor: Seyyed Amir Hadi Minoofam
+        -:    4: * Term 1
+        -:    5: *calculating shopping expenses
+        -:    6: */
+        -:    7:#include <stdio.h>
+function main called 1 returned 100% blocks executed 73%
+        1:    8:int main() {
+        1:    8-block  0
+        -:    9:    double total_money,count_shop,pay,number_shop;
+        1:   10:    printf("\nEnter your account balance:");
+        1:   10-block  0
+call    0 returned 1
+        1:   11:    scanf("%lf",&total_money);
+call    0 returned 1
+        -:   12:
+        -:   13:    /* calculating each shopping expense */
+        1:   14:    number_shop=0;
+        1:   15:while(pay>total_money) {
+        1:   15-block  0
+branch  0 taken 0
+branch  1 taken 1 (fallthrough)
+    #####:   16:    printf("\nEnter your payments:");
+    $$$$$:   16-block  0
+call    0 never executed
+    #####:   17:    scanf("%lf", &pay);
+call    0 never executed
+    #####:   18:    total_money = total_money - pay;
+    #####:   19:    number_shop +=1;
+        -:   20:
+        -:   21:}
+        -:   22:
+        1:   23:    printf("\nCount of your shopping is %lf",count_shop);
+        1:   23-block  0
+call    0 returned 1
+        1:   24:    printf("\nYour final account balance is %lf\n" ,total_money);
+call    0 returned 1
+        1:   25:    return 0;
+        -:   26:}
