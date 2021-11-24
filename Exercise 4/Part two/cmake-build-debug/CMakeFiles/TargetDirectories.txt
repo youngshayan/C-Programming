@@ -1,3 +1,0 @@
-C:/Users/user/CLionProjects/Exercise4-part two/cmake-build-debug/CMakeFiles/Exercise4_part_two.dir
-C:/Users/user/CLionProjects/Exercise4-part two/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/user/CLionProjects/Exercise4-part two/cmake-build-debug/CMakeFiles/rebuild_cache.dir
