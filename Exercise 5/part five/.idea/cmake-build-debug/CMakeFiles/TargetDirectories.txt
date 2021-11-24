@@ -1,3 +1,0 @@
-C:/Users/user/CLionProjects/Exercise5-part five/cmake-build-debug/CMakeFiles/Exercise5_part_five.dir
-C:/Users/user/CLionProjects/Exercise5-part five/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/user/CLionProjects/Exercise5-part five/cmake-build-debug/CMakeFiles/rebuild_cache.dir
