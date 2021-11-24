@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Exercise4-part four/cmake-build-debug/CMakeFiles/Exercise4_part_four.dir
+C:/Users/user/CLionProjects/Exercise4-part four/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Exercise4-part four/cmake-build-debug/CMakeFiles/rebuild_cache.dir
