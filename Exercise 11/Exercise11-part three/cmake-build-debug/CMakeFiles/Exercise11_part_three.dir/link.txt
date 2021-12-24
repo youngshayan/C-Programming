@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Exercise11_part_three.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Exercise11_part_three.dir/objects.a @CMakeFiles\Exercise11_part_three.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Exercise11_part_three.dir/objects.a -Wl,--no-whole-archive -o Exercise11_part_three.exe -Wl,--out-implib,libExercise11_part_three.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Exercise11_part_three.dir\linklibs.rsp

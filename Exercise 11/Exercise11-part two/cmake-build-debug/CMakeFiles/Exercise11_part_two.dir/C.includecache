@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/CLionProjects/Exercise11-part two/main.c
+stdio.h
+-
+BSORT.h/BSORT.h
+C:/Users/user/CLionProjects/Exercise11-part two/BSORT.h/BSORT.h
+BSORT.h/BSORT.c
+C:/Users/user/CLionProjects/Exercise11-part two/BSORT.h/BSORT.c
+stdlib.h
+-
+time.h
+-
+
