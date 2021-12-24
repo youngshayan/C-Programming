@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Exercise12-part one/cmake-build-debug/CMakeFiles/Exercise12_part_one.dir
+C:/Users/user/CLionProjects/Exercise12-part one/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Exercise12-part one/cmake-build-debug/CMakeFiles/rebuild_cache.dir
